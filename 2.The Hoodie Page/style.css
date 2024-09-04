@@ -28,8 +28,7 @@ nav {
   background-color: var(--main-color);
 }
 .logo {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: var(--main-font);
   font-style: italic;
 }
 /* LOGO Image */
@@ -63,7 +62,7 @@ ul li a:hover {
 }
 .burger span {
   border: 2px solid black;
-  width: 40px;
+  width: 30px;
   height: 1px;
   margin: 2px;
 }
