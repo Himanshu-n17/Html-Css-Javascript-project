@@ -41,6 +41,7 @@ nav {
 ul li {
   display: inline;
   list-style: none;
+  color: bisque;
 }
 ul li a {
   text-decoration: none;
